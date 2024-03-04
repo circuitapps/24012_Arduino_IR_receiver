@@ -53,7 +53,7 @@
 
 // FOLLOWING IS THE PIN DEFINITIONS FOR ATtiny85
 #if defined(__AVR_ATtiny25__) || defined(__AVR_ATtiny45__) || defined(__AVR_ATtiny85__) // Digispark board. For use with ATTinyCore.
-#include "ATtinySerialOut.hpp" // TX is at pin 2 - Available as Arduino library "ATtinySerialOut". Saves 700 bytes program memory and 70 bytes RAM for ATtinyCore.
+#include "ATtinySerialOut.hpp" // TX is at pin 2 (PB2) - Available as Arduino library "ATtinySerialOut". Saves 700 bytes program memory and 70 bytes RAM for ATtinyCore.
 #define IR_RECEIVE_PIN  PB0
 //#define IR_SEND_PIN     PB4 // Pin 2 is serial output with ATtinySerialOut. Pin 1 is internal LED and Pin3 is USB+ with pullup on Digispark board.
 //#define TONE_PIN        PB3
