@@ -13,7 +13,7 @@ You can access the AtTiny85 software code using the following link.
 
 Though the above code showcases an IR remote control function for changing color of an RGB LED in our **<u>[project video][1]</u>**, there are many other things you can do with simple modifications to this basic code.
 
-Description: This code demonstrates how off the shelf remote controllers can be repurposed to control any device using an AtTiny85 microcontroller using this IR receiver code. For the purpose of demonstrating how the IR receiver works, this control uses an RGB LED as the target device to generate different colors using an IR remote control. However, it can easily be modified to control many other devices such as motors, lamps, MP3 players, and many more!
+Description: This code demonstrates how off the shelf remote controllers can be repurposed to control any device using an AtTiny85 microcontroller using this IR receiver code. For the purpose of demonstrating how the IR receiver works, this control application uses an RGB LED as the target device to generate different colors using an IR remote control. However, it can easily be modified to control many other devices such as motors, lamps, MP3 players, and many more!
 
 Though you can use any IR remote controller, we suggest you get a cheap X11TI1 (see purchase link: www.amazon.com/dp/B0CG37L55Z), which will be fully compatible with the code here. 
 
@@ -39,7 +39,7 @@ Though this is a simple project, be careful with the polarity of the leads when 
 If you have not worked with ATtiny85 before and need support with the basic operation and programming of this device, have a look at this **<u>[excellent reference][2]</u>** that walks you through the entire process step by step. If you get stuck, drop us a message in the comments section of **<u>[our YouTube video][1]</u>**
 
 
-GOOD LUCK & ENJOY EXPERIMENTING WITH HOW MICROCONTROLLERS CAN TRANSFORM EL WIRE LIGHT PATTERNS !
+GOOD LUCK & ENJOY CONTROLLING ELECTRONIC DEVICES FROM THE COMFORT OF YOUR SEAT WITH THIS IR RECEIVER !
 
 
 [1]: <UPDATE YOUTUBE VIDEO TO PROJECT>
