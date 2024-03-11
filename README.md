@@ -42,6 +42,6 @@ If you have not worked with ATtiny85 before and need support with the basic oper
 GOOD LUCK & ENJOY CONTROLLING ELECTRONIC DEVICES FROM THE COMFORT OF YOUR SEAT WITH THIS IR RECEIVER !
 
 
-[1]: <UPDATE YOUTUBE VIDEO TO PROJECT>
+[1]: https://youtube.com/shorts/PZWuEAKaxsI
 
 [2]: https://circuitdigest.com/microcontroller-projects/programming-attiny85-microcontroller-ic-using-arduin
